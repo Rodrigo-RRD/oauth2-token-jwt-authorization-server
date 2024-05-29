@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "algafood.jwt.keystore.jks-location",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.jwt.keystore.jks-location'"
+  },
+  {
+    "name": "algafood.jwt.keystore.password",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.jwt.keystore.password'"
+  },
+  {
+    "name": "algafood.jwt.keystore.keypair-alias",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.jwt.keystore.keypair-alias'"
+  },
+  {
+    "name": "algafood.auth.provider-url",
+    "type": "java.lang.String",
+    "description": "A description for 'algafood.auth.provider-url'"
+  }
+]}
