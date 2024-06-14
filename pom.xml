@@ -10,9 +10,9 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.algafood</groupId>
-	<artifactId>auth</artifactId>
+	<artifactId>oauth2</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>auth</name>
+	<name>oauth2</name>
 	<description>API OAuth2 para autenticacao e criacao de tokens padrao de acesso JWT HS256</description>
 	<properties>
 		<java.version>17</java.version>
