@@ -1,5 +1,5 @@
-# API Authorization Server com Spring Security 6, OAuth2 e JWT
-Este projeto implementa um Authorization Server que gera tokens de autenticação JWT utilizando o OAuth2 como protocolo de autorização. 
+# API REST Authorization Server com Spring Security 6, OAuth2 e JWT
+Este projeto implementa um Authorization Server que gera tokens de autenticação JWT utilizando o OAuth2 como protocolo de autorização com a arquitetura REST para microservices. 
 Ele foi desenvolvido com o Spring Ecosystem, aproveitando as vantagens de Spring Security 6, Hibernate, JPA, e recursos modernos do Java, como Stream API e Lambda Expressions.
 
 # Autenticação OAuth2
